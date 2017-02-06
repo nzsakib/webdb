@@ -1,0 +1,12 @@
+.container h3 {
+    text-align: center;
+}
+
+.container {
+    margin: 100px auto;
+    width: 600px;
+}
+
+button {
+    margin-top: 20px;
+}
